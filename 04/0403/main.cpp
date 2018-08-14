@@ -4,3 +4,12 @@
 
 // answer: 可以。取决于人，不确定的地方可以用括号强制提高优先级。
 
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello World!" << endl;
+    return 0;
+}
